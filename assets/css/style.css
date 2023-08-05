@@ -84,3 +84,13 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
+
+h2{
+    align-items: center;
+    justify-content: center;
+}
+li{
+    width: 95%;
+    list-style-type: none;
+    text-align: center;
+}
